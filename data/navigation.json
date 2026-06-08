@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "label": "Home", "icon": "home", "url": "/", "active": true },
+    { "label": "Articles", "icon": "article", "url": "/posts/" },
+    { "label": "RSS", "icon": "bell", "url": "/index.xml" },
+    { "label": "Main site", "icon": "link", "url": "https://kyre.moe/" }
+  ]
+}

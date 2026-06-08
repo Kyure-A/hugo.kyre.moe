@@ -1,0 +1,9 @@
+{
+  "name": "hugo.kyre.moe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "sh -c 'cmd=\"hugo server --theme hugo-twitter-style --buildDrafts --disableFastRender --noBuildLock --bind 127.0.0.1 --port 1314\"; if command -v hugo >/dev/null 2>&1; then eval \"$cmd\"; else nix-shell -p hugo --run \"$cmd\"; fi'",
+    "build": "sh -c 'cmd=\"hugo --theme hugo-twitter-style --destination public --noBuildLock\"; if command -v hugo >/dev/null 2>&1; then eval \"$cmd\"; else nix-shell -p hugo --run \"$cmd\"; fi'"
+  }
+}

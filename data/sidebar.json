@@ -1,0 +1,30 @@
+{
+  "suggestionsTitle": "You might like",
+  "suggestions": [
+    {
+      "name": "kyre.moe",
+      "handle": "kyre.moe",
+      "note": "Main site",
+      "url": "https://kyre.moe/"
+    },
+    {
+      "name": "Hugo",
+      "handle": "gohugoio",
+      "xUsername": "gohugoio",
+      "url": "https://gohugo.io/"
+    }
+  ],
+  "trendsTitle": "What’s happening",
+  "trends": [
+    {
+      "meta": "Site",
+      "title": "hugo.kyre.moe",
+      "url": "https://hugo.kyre.moe/"
+    },
+    {
+      "meta": "Theme",
+      "title": "Hugo Twitter Style",
+      "url": "https://github.com/Kyure-A/hugo-twitter-style"
+    }
+  ]
+}

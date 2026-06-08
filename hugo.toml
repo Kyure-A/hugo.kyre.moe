@@ -1,0 +1,21 @@
+baseURL = "https://hugo.kyre.moe/"
+locale = "ja"
+title = "キュレェ"
+theme = "hugo-twitter-style"
+
+[params]
+displayName = "​キ​ュ​レ​ェ​"
+username = "kyremoe"
+xUsername = "kyremoe"
+enableXDynamic = true
+xProfileProxy = "https://api.fxtwitter.com/{username}"
+xFollowButton = false
+verified = true
+bio = "チョコモナカジャンボは溶けるとモナカ部分も溶ける"
+website = "https://kyre.moe/"
+joined = "May 2023"
+avatar = "https://pbs.twimg.com/profile_images/1961727980344098816/qlRtfxDW_normal.jpg"
+following = 273
+followers = 503
+profileButtonText = "Follow"
+profileButtonUrl = "/index.xml"

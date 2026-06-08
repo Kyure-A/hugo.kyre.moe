@@ -1,0 +1,3 @@
+[submodule "themes/hugo-twitter-style"]
+	path = themes/hugo-twitter-style
+	url = git@github.com:Kyure-A/hugo-twitter-style.git
